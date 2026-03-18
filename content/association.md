@@ -32,6 +32,7 @@ It is encouraged to join at least one of the MA projects as a guest before becom
 
 If you are interested, simply contact the [Modelica board](mailto:board@modelica.org) and explain your motivation.
 The [individual application form](https://docs.google.com/forms/d/1AKymk2UfwDSJR4fuYXAyGJuvPw7YLiBFF76jqLSjzWM/edit) provides useful guidance. 
+To apply for membership as an organization please use the [organizational application form](https://docs.google.com/forms/d/e/1FAIpQLSfUpCe1fqVgcuib5WpfZh_tuDGoLcLdk0BjRqeMAFi3XtDZug/viewform).
 
 ## Modelica Association Projects
 
@@ -197,12 +198,12 @@ The following organizations are members of the Modelica Association:
 | [COMSOL AB](https://www.comsol.com/company)                                                         | Stockholm, Sweden                    |                                |
 | [Dassault Systèmes SA](http://www.3ds.com)                                                          | Paris, France                        | [Modelica.info@3ds.com](mailto:Modelica.info@3ds.com) |
 | [DLR - Institute of System Dynamics and Control](https://www.dlr.de/en/sr/about-us/institute)       | Oberpfaffenhofen, Germany            | [Martin.Otter@dlr.de](mailto:Martin.Otter@dlr.de)     |
-| [ESI Germany](https://www.simulationx.com/)                                                         | Dresden, Germany                     |                                |
 | [Global Crown Technology](http://www.globalcrown.com.cn/index_en.asp)                               | Beijing, China                       |                                |
 | [IDA PELAB](http://www.ida.liu.se/~pelab)                                                           | Linköping, Sweden                    | [peter.fritzson@liu.se](mailto:peter.fritzson@liu.se) |
 | [Institut für Thermodynamik, Universität Braunschweig](http://www.ift-bs.de/)                       | Braunschweig, Germany                | [ift@tu-bs.de](mailto:ift@tu-bs.de)                   |
 | [Institute of Engineering Thermodynamics, Hamburg University of Technology](https://www.tuhh.de/technische-thermodynamik/en/institute) | Hamburg, Germany                     | [arne.speerforck@tuhh.de](mailto:arne.speerforck@tuhh.de) |
 | [Institute of Vehicle Engineering (iVH)](http://www.ivh.co.kr)                                      | Seoul, Korea                         |                                |
+| [Keysight Technologies Deutschland](https://www.keysight.com/us/en/home.html)                       | Böblingen, Germany                     |                                |
 | [Liebherr Aerospace Toulouse](https://www.liebherr.com/en-fr/group/location/toulouse-profile-3752241)| Toulouse, France                     |                                |
 | [LTX Simulation](http://ltx.de)                                                                     | Munich, Germany                      | [info@ltx.de](mailto:info@ltx.de)                     |
 | [Maplesoft](http://www.maplesoft.com/)                                                              | Waterloo, ON, Canada                 | [modelica@maplesoft.com](mailto:modelica@maplesoft.com) |
