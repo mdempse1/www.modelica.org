@@ -307,7 +307,7 @@ Detailed formatting instructions are included in the [paper templates](https://g
 
 ## Keynotes 
 
-### Modelica and the Future of Model Based Design - From Foundations to Agentic AI Workflows, Monday, September 21st
+### Modelica and the Future of Model Based Design - From Foundations to Agentic AI Workflows
 
 {{<rawhtml>}}
 <img src="images/HildingElmqvist.jpg" alt="Hilding Elmqvist" style="margin-left: 0; max-width: 150px"/>
@@ -326,7 +326,7 @@ This keynote will reflect on Modelica’s evolution and principles, highlight on
 **Biography**
 Elmqvist initiated the international standardization effort to design the next generation object-oriented language for physical modelling, Modelica in 1996. Elmqvist’s Ph.D. thesis from 1978 from the Department of Automatic Control, Lund Institute of Technology, Lund, Sweden contains the design of a novel object-oriented and equation- based modelling language, Dymola, and algorithms for symbolic model manipulation. Elmqvist founded Dynasim AB in 1992, which was merged into Dassault Systèmes in 2006 and is a cofounder of Modelon AB. 
 
-### 15 Years Functional Mock-up Interface – a Journey from FMI 1.0 to 3.0 and the Road Ahead, Tuesday, September 22nd
+### 15 Years Functional Mock-up Interface – a Journey from FMI 1.0 to 3.0 and the Road Ahead
 
 {{<rawhtml>}}
 <img src="images/BertschChristian.png" alt="Bertsch Christian" style="margin-left: 0; max-width: 150px"/>
