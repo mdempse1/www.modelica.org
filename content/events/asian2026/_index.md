@@ -303,34 +303,44 @@ Detailed formatting instructions are included in the [paper templates](https://g
 
 
 
-<!--
+
 
 ## Keynotes 
 
-### Physics-Informed AI, Tuesday, September 9th
+### Modelica and the Future of Model Based Design - From Foundations to Agentic AI Workflows, Monday, September 21st
 
 {{<rawhtml>}}
-<img src="images/ETH-BIB-Mishra_Siddhartha.jpg" alt="Mishra Siddhartha" style="margin-left: 0; max-width: 150px"/>
+<img src="images/HildingElmqvist.jpg" alt="Hilding Elmqvist" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
-**Mishra Siddhartha,** Professor and Deputy Head of the Seminar for Applied Mathematics at ETH Zürich
-
+**Dr Hilding Elmqvist,** Mogram AB, Lund, Sweden
+<!--
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Siddhartha_Mishra.pdf)
+-->
 
-AI is increasingly being used in the fast and accurate simulation of physical systems. In this keynote, we will discuss how knowledge of the underlying physics can be explicitly incorporated into AI systems for physical simulations. Key examples will highlight the potential gains as well as the involved challenges.
+Since its conception in 1996, Modelica has evolved into a global standard for multi-domain, equation-based modeling and simulation. Its foundation rests on key principles—acausal declarative modeling, symbolic manipulation, and object-oriented reuse—that enable engineers and scientists to describe complex physical systems in a unified form. Over the years, these principles have fostered a rich ecosystem of tools, open and proprietary model libraries, and industrial cooperation.
+The Modelica community now enters an exciting new era shaped by web and cloud technologies and intelligent automation. Browser-based simulation environments provide instant access to modeling, execution, and visualization—removing installation barriers and opening new opportunities in education, research, and rapid prototyping. Emerging modeling challenges, including the modelling, simulation and control of humanoid and quadruped robots operating in complex and dynamic environments, push the boundaries of what multi-domain modeling must represent. 
+The convergence of Modelica-based simulation servers with agentic AI creates a powerful paradigm: AI-driven simulations in the loop. Intelligent agents can autonomously generate models, simulate, test, and refine designs from simulated results. 
+This keynote will reflect on Modelica’s evolution and principles, highlight ongoing innovations, and explore how web-enabled simulation and AI-assisted modeling and design exploration are transforming model-based design.
 
-### Opportunities and Challenges in Design and Operation of Integrated Energy Systems, Wednesday, September 10th
+**Biography - Dr Hilding Elmqvist**
+Elmqvist initiated the international standardization effort to design the next generation object-oriented language for physical modelling, Modelica in 1996. Elmqvist’s Ph.D. thesis from 1978 from the Department of Automatic Control, Lund Institute of Technology, Lund, Sweden contains the design of a novel object-oriented and equation- based modelling language, Dymola, and algorithms for symbolic model manipulation. Elmqvist founded Dynasim AB in 1992, which was merged into Dassault Systèmes in 2006 and is a cofounder of Modelon AB. 
+
+### 15 Years Functional Mock-up Interface – a Journey from FMI 1.0 to 3.0 and the Road Ahead, Tuesday, September 22nd
 
 {{<rawhtml>}}
-<img src="images/JohanAkesson.jpeg" alt="Johan Akesson" style="margin-left: 0; max-width: 150px"/>
+<img src="images/BertschChristian.png" alt="Bertsch Christian" style="margin-left: 0; max-width: 150px"/>
 {{</rawhtml>}}
 
-**Johan R Åkesson,** Associate Director for Computational Engineering at Carrier, Former CTO Modelon AB
-
+**Christian Bertsch,** Bosch Research, FMI Project Leader and Modelica Association Board Member
+<!--
 [{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Johan_Akesson.pdf)
+-->
+Over the last fifteen years, the Functional Mock-up Interface (FMI) has evolved by addressing real industrial needs for simulation interoperability. What began as a solution mainly for the automotive industry has now firmly established itself as the de-facto industrial standard for tool-independent model exchange and co-simulation across numerous domains. This keynote will trace the journey of FMI from its initial concepts in version 1.0 to the powerful ecosystem of today.
+The release of FMI 3.0 marks a pivotal milestone in this journey, enabling major improvements that redefine the boundaries of system simulation. This new version introduces advanced co-simulation capabilities, facilitates the development and deployment of virtual ECUs, and seamlessly integrates FMI models into complex optimization and machine learning workflows. These enhancements empower engineers to tackle new challenges in digitalization and automation with greater efficiency and fidelity.
+Looking to the road ahead, the FMI standard continues to expand through the development of Layered Standards. These domain-specific extensions, built on top of the core FMI framework, enable further improvements and unlock entirely new use cases for virtual engineering. This talk will provide a comprehensive look at FMI’s past, present, and future, celebrating its role as a cornerstone of modern model-based development.
 
-The complexity of modern integrated energy systems demands the systematic use of systems engineering methods and tools to address key challenges across product lifecycle. This keynote will explore three related and critical areas: 1) the demand for diverse model fidelities and analysis, 2) maintaining consistency across design layers, and 3) the importance of seamless tooling and integration. Real-world, HVAC-specific examples will highlight how these challenges are being tackled in practice and the opportunities they present. For over two decades, Carrier has relied on Modelica as a cornerstone technology for model-based product design. The journey began with the development of control systems for transportation refrigeration, where transient simulations allowed for rapid control function development and verification. Today, while controls development remains a vital application, Carrier has expanded Modelica's use across the entire product lifecycle—from conceptual design, through testing and verification, to business sales tools, and into operation with monitoring and diagnostics. Design and operation of highly integrated energy systems such as data centers and district heating systems also calls for new methods and tools. Differentiated applications has driven diversified analysis with Modelica models. Modelica-based steady-state simulation has emerged as a back-bone in product design, sales tools, as well as in field diagnostics. Steady-state and transient optimization is also a necessary element across the product life cycle. The need for diversified analysis and computation is further amplified by application of systems engineering methods where requirements, design space exploration, and validation and verification are key elements.
-
+<!--
 ## Panel Discussion
 
 For the first time at the International Modelica Conference, we will have a Penel discussion. The topic is: **Open Standards vs. Open source, Collaboration or Conflict?**.
