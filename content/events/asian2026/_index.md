@@ -340,6 +340,17 @@ Over the last fifteen years, the Functional Mock-up Interface (FMI) has evolved 
 The release of FMI 3.0 marks a pivotal milestone in this journey, enabling major improvements that redefine the boundaries of system simulation. This new version introduces advanced co-simulation capabilities, facilitates the development and deployment of virtual ECUs, and seamlessly integrates FMI models into complex optimization and machine learning workflows. These enhancements empower engineers to tackle new challenges in digitalization and automation with greater efficiency and fidelity.
 Looking to the road ahead, the FMI standard continues to expand through the development of Layered Standards. These domain-specific extensions, built on top of the core FMI framework, enable further improvements and unlock entirely new use cases for virtual engineering. This talk will provide a comprehensive look at FMI’s past, present, and future, celebrating its role as a cornerstone of modern model-based development.
 
+### Model-based Digital Engineering Practice for Automobiles
+
+{{<rawhtml>}}
+<img src="images/ZhongYilin.jpg" alt="Zhong Yilin" style="margin-left: 0; max-width: 150px"/>
+{{</rawhtml>}}
+
+**Zhong Yilin,** Vice President of BYD Automotive Engineering Research Institute
+<!--
+[{{<i class="fa-solid fa-file-arrow-down me-1">}} Presentation](Johan_Akesson.pdf)
+-->
+Leveraging its full-industry-chain advantages, vertical integration, and massive proprietary R&D, BYD has achieved global leadership in new energy vehicle sales. To address the growing complexity of vehicle systems while sustaining this leadership, systematic application of systems engineering methods has become essential across the product lifecycle. This keynote focuses on digital engineering practices with Modelica, exploring three interrelated areas: 1) co-simulation design and validation methodologies for highly integrated vehicle systems; 2) high-fidelity and computationally efficient modeling approaches for diverse R&D scenarios; and 3) engineering implementation of toolchain integration and virtual validation. We are currently advancing Modelica-based digital engineering practices across multiple domains: developing a whole-vehicle digital engineering co-simulation platform that integrates powertrain, thermal management, and chassis control models, realizing seamless cross-system collaborative optimization of power performance, energy efficiency, and handling stability; creating digital models for HVAC thermal management systems that accurately predict cabin thermal load and system power consumption and energy flows, significantly enhancing both energy efficiency and cabin comfort; implementing digital development processes for seat systems that enable early-stage validation of control strategies, vibration-noise characteristics, and comfort attributes through model-driven design and simulation, substantially reducing physical prototype development-cycles; and pioneering AI-Modelica integration that leverages data-driven methods to accelerate model generation, parameter identification, and calibration, substantially improving the intelligence level of complex system modeling. These practices collectively validate Modelica's critical role in complex multidisciplinary system modeling, offering a new paradigm for enhancing research and development efficiency in intelligent vehicle development.
 <!--
 ## Panel Discussion
 
