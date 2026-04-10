@@ -8,7 +8,7 @@ title: Newsletter 2026-01
 </div>
 {{</rawhtml>}}
 
-# Modelica Association Newletter 2026-01
+# Modelica Association Newsletter 2026-01
 
 issued on March 5, 2026
 
@@ -30,6 +30,8 @@ issued on March 5, 2026
 
 ## Modelica Association
 
+<!-- END Modelica Association -->
+
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
     <i class="fa-solid fa-users" style="font-size:50px"></i>
@@ -37,6 +39,8 @@ issued on March 5, 2026
 {{</rawhtml>}}
 
 ## Conferences and user meetings
+
+<!-- END Conferences and user meetings -->
 
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
@@ -46,6 +50,18 @@ issued on March 5, 2026
 
 ## Vendor news
 
+<!-- END Vendor news -->
+
+{{<rawhtml>}}
+<div class="masthead-followup-icon d-inline-block mt-5">
+    <i class="fa-solid fa-book" style="font-size:50px"></i>
+</div>
+{{</rawhtml>}}
+
+## News from libraries
+
+<!-- END News from libraries -->
+
 {{<rawhtml>}}
 <div class="masthead-followup-icon d-inline-block mt-5">
     <i class="fa-solid fa-graduation-cap" style="font-size:50px"></i>
@@ -53,3 +69,5 @@ issued on March 5, 2026
 {{</rawhtml>}}
 
 ## Education news
+
+<!-- END Education news -->
