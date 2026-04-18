@@ -449,24 +449,24 @@ Most common International Travel:
 
 Further travel advice for international guests will follow soon.
 
-<!--
-## Technical Events in September 2026 at Hangzhou
-- The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. 
+
+## Hangzhou Attractions
+As a renowned historical and cultural city with a history spanning over 2,000 years, Hangzhou boasts abundant [historical heritages and profound cultural traditions](https://www.chinahighlights.com/hangzhou/attraction/). We hope this site helps you arrange your trip for the conference. Additionally, there are several technical events following the conference that are worth visiting.
+
+- The [5th Global Digital Trade Expo](https://www.gdte.org.cn/En/) (GDTE)	, September 23-27, 2026 at Hangzhou Grand Convention and Exhibition Center,	Co-hosted by Zhejiang Provincial Government and Ministry of Commerce; China's only national-level, global professional exhibition themed on digital trade. Expected 1,546+ exhibitors, 200,000+ visitors, 155,000 sqm exhibition space, with 100+ world premieres and new product launches. [EXPO Headline](https://www.gdte.org.cn/En/content/content_9206914.html).
 - The [2nd ISSE International Smart Space Exhibition](https://www.isse-expo.com),	September 23-27, 2026	at Hangzhou Grand Convention and Exhibition Center,	co-hosted by Messe Frankfurt (HK) Ltd and Hangzhou Convention & Exhibition Group; held concurrently with GDTE, focusing on smart space technology and urban governance solutions.
-- Apsara Conference 2026 (Hangzhou Cloud Computing Expo),	September 1, 2026	at Hangzhou Cloud Town,hosted by Alibaba Cloud; China's annual flagship event for cloud computing and AI industry chain, featuring a 40,000 sqm intelligent technology exhibition area with three themed pavilions: AI+, Computing, and Frontier Applications, showcasing LLMs, autonomous driving, robotics and other cutting-edge technologies
 
-## Registration and Accommodation
+<!--
+## Registration
 
-**[Registration is now open at Eventfrog](https://eventfrog.ch/en/p/fairs/congress-conference/the-16th-international-modelica-fmi-conference-7297164051792011009.html)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 7th. The conference registration is offered at the following conditions.
+**[Registration is now open at Bageventfrog](https://www.bagevent.com/event/9178303)**. Please register soon to make planning easy for us. Early Bird tickets will be available until July 31. The conference registration is offered at the following conditions.
 
 | Registration                 | Valid        | incl. Dinner | Early-Price | Price   |
 |------------------------------|--------------|:------------:|------------:|--------:|
-| Standard                     | Mon-Wed      | yes          | 750 CHF     | 900 CHF |
-| PhD-Candidate                | Mon-Wed      | no           | 400 CHF     | 500 CHF |
-| Non-PhD-Student              | Mon-Wed      | no           | 200 CHF     | 250 CHF |
-| Conference Dinner            | Dinner       | yes          | 150 CHF     | 150 CHF |
+| Standard                     | Mon-Tue      | yes          | 1875 CNY    | 2500 CNY|
+| Student                      | Mon-Tue      | yes          |  750 CNY    |  750 CNY|
+| Conference Dinner            | Dinner       | yes          |  225 CNY    |  300 CNY|
 
-The conference will take place at the [Rotkreuz campus](https://dock.hslu.ch/rundgang/index.html?startscene=i)  of Lucerne University of Applied Sciences and Arts, which can be reached in as little as 13 minutes by train from Lucerne railroad station. We recommend taking the train to the campus, as the campus is located directly at Rotkreuz station. The university cannot provide parking spaces in Rotkreuz. There are parking spaces in the vicinity of the campus whose availability and prices are not subject to the university. 
 
 Under the following link, conference participants will find a **[limited contingent of hotels in Lucerne and Rotkreuz at discounted rates.](https://regis.buchertravel.ch/event/International_Modelica_Conference2025)** Please use the search window to view all available hotels and prices. We would like to point out that Lucerne offers significantly more tourist attractions than Rotkreuz. However, Lucerne is in high season during the conference, so accommodation costs may be higher. Cheaper alternatives can be found, for example, in youth hostels in the city of Lucerne, Airbnbs, or hotels in the vicinity of Lucerne and Rotkreuz with good rail connections.
 
