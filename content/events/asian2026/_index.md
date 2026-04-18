@@ -14,9 +14,9 @@ We announce the **Asian Modelica & FMI Conference 2026**.
 It will take place at the high-tech city of **Hangzhou, China from September 21-22, 2026** also famous of its stunning west lake scenery.
 It is organized by the [Beihang University (at Hangzhou campus)](https://zfaien.buaa.edu.cn/About_Us/Overview.htm) and [Nanjing Yuansi SimTek Co., Ltd.](https://en.simtek.cc/) in cooperation with the [Modelica Association](/association/).
 This is the first visit of the conference series in China.
-
+<!--
 ![Hangzhou West Lake](images/Westlake.png)
-
+-->
 {{< toc >}}
 
 
@@ -37,8 +37,8 @@ In addition to paper presentations, the conference features several Modelica tut
 |   |   |
 |---|---|
 |December 12, 2025 |Call for papers |
-|April 30, 2026 |Deadline for scientific paper submissions|
-|June 15, 2026 | Notification of acceptance for scientific papers and presentations |
+|May 15, 2026 |Deadline for scientific paper submissions (extended)|
+|June 30, 2026 | Notification of acceptance for scientific papers and presentations |
 |June 30, 2026 | Deadline for submission of industrial user presentations|
 |June 30, 2026  | Deadline for submission of vendor presentations  |
 |July 15, 2026  | Notification of acceptance for industrial user presentations  |
@@ -663,7 +663,7 @@ Become a sponsor of the Asian Modelica & FMI Conference 2026! Please contact the
 - **Prof. Yanfang Liu**, Beihang University, Program Chair
 - **Prof. WeiLin Li**, Northwestern Polytechnical University, Publicity Co-Chair
 - **Dr. OU Haiying**, China SAE Automobile Model Digital Engineering Branch, Publicity Co-Chair
-- **Dr. Hong Lü**, China General Nuclear Power Corporation(CGN), Publicity Co-Chair
+- **Dr. Hong Lü**, State Key Laboratory of Nuclear Power Safety Technology and Equipment, Publicity Co-Chair
 
 ### Conference Advisory Board
 
