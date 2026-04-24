@@ -134,7 +134,25 @@ FMI Project Leader Christian Bertsch will be giving a keynote and a tutorial on 
 {{</rawhtml>}}
 
 ## Vendor news
+### Dymola Sustainable Supply Systems Library Update
 
+![Screenshot of "ElectricityAndFuelPriceTracking"](./3DS_Susy110.png)
+
+Dassault Systèmes is happy to announce an update to the [Sustainable Supply Systems library (SuSy)](https://blog.3ds.com/brands/catia/catia-dymola-from-concept-to-prototype-in-minutes-simplifying-hybrid-energy-system-modeling-with-the-sustainable-supply-systems-library/).  
+Version 1.1.0 represents a substantial update and expansion of scope of the library.  
+Key new features and changes include:
+
+- Techno-economic assessments
+  - CAPEX, OPEX, Levelized Cost of Energy for both components and systems
+- Emission tracking per scope
+  - Emissions split into scope 1 and scope 2 as per [The Greenhouse Gas Protocol](https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf)
+  - Electricity carbon intensity tracked at electrical ports
+- Examples
+  - Methanol cruise ship with methanol to hydrogen reformer
+  - Green hydrogen production with electrolyzer
+  - Green ammonia with ammonia plant component
+
+This article is provided by Markus Andres ([Dassault Systemes Austria GmbH](https://www.3ds.com/))
 ### Siemens Digital Industries Software
 
 #### Simcenter Amesim 2604 released
